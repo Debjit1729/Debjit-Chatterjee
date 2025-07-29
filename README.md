@@ -1,12 +1,98 @@
-# React + Vite
+# Robert Butcher - Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the source code of **Robert Butcher's** personal developer portfolio. This project showcases Robert’s skills, projects, and experience as a full-stack developer with a strong aesthetic sense and user-focused design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+**🌐 [Visit the Portfolio](https://debjit-chatterjee.vercel.app/)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Features
+
+- Fully responsive, modern UI
+- Hero section with background image and intro
+- About section with experience highlights
+- Project showcase with image previews
+- Skills section with categorized tech stack
+- Achievements 
+- Contact form integration (email)
+- Smooth scrolling and minimal animations using Framer Motion
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Vite
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Icons:** React Icons
+- **Form Handling:** Custom email form setup (can be extended via EmailJS)
+- **Bundler:** Vite
+
+---
+
+## 📁 Folder Structure
+
+```
+Robert-Butcher/
+│
+├── public/               # Static assets
+├── src/
+│   ├── assets/           # Images and media
+│   ├── components/       # Reusable React components
+│   ├── constants/        # Data files (like PROFILE.js)
+│   ├── App.jsx           # Root React component
+│   └── main.jsx          # ReactDOM rendering
+│
+├── .gitignore
+├── index.html
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+└── vite.config.js
+```
+
+---
+
+## ⚙️ Getting Started
+
+Follow these steps to set up the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/Robert-Butcher.git
+cd Robert-Butcher
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the development server
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the site.
+
+---
+
+## 🧾 Deployment
+
+This project is ready to be deployed on platforms like:
+
+- **Vercel**
+- **Netlify**
+- **GitHub Pages (via `gh-pages` branch and router support)**
+
+---
+
+
+> Designed & Developed with ❤️ by Debjit Chatterjee
