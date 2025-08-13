@@ -1,6 +1,6 @@
-# Robert Butcher - Personal Portfolio Website
+# Debjit Chatterjee - Personal Portfolio Website
 
-Welcome to the source code of **Robert Butcher's** personal developer portfolio. This project showcases Robert’s skills, projects, and experience as a full-stack developer with a strong aesthetic sense and user-focused design.
+Welcome to the source code of **Debjit Chatterjee's** personal developer portfolio. This project showcases Debjit’s skills, projects, and experience as a full-stack developer with a strong aesthetic sense and user-focused design.
 
 ---
 
