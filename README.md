@@ -61,20 +61,13 @@ Robert-Butcher/
 
 Follow these steps to set up the project locally:
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/Robert-Butcher.git
-cd Robert-Butcher
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Start the development server
+### 2. Start the development server
 
 ```bash
 npm run dev
